@@ -1,3 +1,5 @@
+import { UserButton } from "@clerk/nextjs"
+
 
 export default function Home () {
   return (
@@ -6,3 +8,5 @@ export default function Home () {
     </main>
   )
 }
+
+
